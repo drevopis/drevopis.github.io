@@ -1,4 +1,9 @@
 
+‘Статья ‘Новая технология письменности («древопись») на примере сайта YearVer’’[https://habr.com/ru/post//]
 
+Примеры «древотекста»:
+1. ‘Сайт YearVer’[http://yearver.org/ru].
+2. Два абзаца из ‘документации к пк-разметке’[http://pqmarkup.org/ru/syntax] (‘Дополнительные возможности форматирования’ → ‘Спойлеры (разворачиваемый блок информации)’ → ‘Для чего нужна последняя форма’ → см. скрытый текст после слова ‘древовидно’).
+3. ‘Мысли на тему режимов открытия файлов’[http://11l-lang.org/doc/ru/built-in-types/File] (запись от 2017.11.22 10:03:36).
 
-><‘‘Обсуждение на GitHub’[https://github.com/drevopis/drevopis.github.io/discussions]’
+‘*‘Обсуждение на GitHub’’[https://github.com/drevopis/drevopis.github.io/discussions]
